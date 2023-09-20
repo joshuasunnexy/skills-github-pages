@@ -5,8 +5,11 @@
   <body>
     <div>
       <h1 style="color: red;">Welcome to my Blog</h1>
-      <p onclick=alert("Hello, World!")>Have a nice time...</p>
+      <p id="hello">Have a nice time...</p>
     </div>
+    <script>
+      document.getElementById("hello").addEventListener('click', () => {window.alert('Welcome!);});
+    </script>
   </body>
 </html>
 
