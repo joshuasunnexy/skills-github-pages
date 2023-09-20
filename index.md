@@ -5,7 +5,7 @@
   <body>
     <div>
       <h1 style="color: red;">Welcome to my Blog</h1>
-      <p>Have a nice time...</p>
+      <p onclick=alert("Hello, World!")>Have a nice time...</p>
     </div>
   </body>
 </html>
