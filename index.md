@@ -4,7 +4,7 @@
   </head>
   <body>
     <div>
-      <h1>Welcome to my Blog</h1>
+      <h1 style="color: red;">Welcome to my Blog</h1>
       <p>Have a nice time...</p>
     </div>
   </body>
