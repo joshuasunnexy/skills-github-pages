@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8"/>
     <style>
-      body{
+      h1{
         background-color: #f3f3f3;
       }
     </style>
